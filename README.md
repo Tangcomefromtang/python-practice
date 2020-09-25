@@ -1,5 +1,5 @@
 # python-practice
-python练习相关
+python相关练习
 
 -----------------
 
